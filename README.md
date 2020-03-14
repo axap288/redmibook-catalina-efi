@@ -1,0 +1,1 @@
+# redmibook-hackintosh-efi
