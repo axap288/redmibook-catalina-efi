@@ -52,4 +52,5 @@
 
 如果我的贡献帮助到你，并且让你心情愉悦了，那可不可以请我一个早餐的煎饼呢？那你开心我也会很开心的，哈哈。
 
-![](https://home.superliunian.tech:8077/images/2020/03/14/9c423e6996ca9f4aad2d562e06dbab3a.jpg)
+<img src="https://home.superliunian.tech:8077/images/2020/03/14/9c423e6996ca9f4aad2d562e06dbab3a.jpg
+" width="50%">
