@@ -41,7 +41,7 @@
 
 ![Screen Shot 2020-03-13 at 8.26.32 P-w960](https://home.superliunian.tech:8077/images/2020/03/14/63434e4f2f07a7a53d73fadfd6e658bc.png)
 
-![IMG_6264-w1512](https://home.superliunian.tech:8077/images/2020/03/14/ff4451e86a44d5fa169637475a1ee60b.jpg)
+<img src="https://home.superliunian.tech:8077/images/2020/03/14/ff4451e86a44d5fa169637475a1ee60b.jpg" width="50%">
 
 
 ## 如何使用
