@@ -35,9 +35,9 @@
 * 睡眠唤醒：正常。
 * 操作系统 & Clover ：使用的是黑果小兵的“macOS Catalina 10.15.2(19C57) Installer for Clover 5100 and WEPE”
 
-![](https://home.superliunian.tech:8077/images/2020/03/14/be2dd8cb1c971cf32bfd1317103649fa.png  | width=655)
+![](https://home.superliunian.tech:8077/images/2020/03/14/be2dd8cb1c971cf32bfd1317103649fa.png)
 
-![Screen Shot 2020-03-13 at 8.15.11 P](https://home.superliunian.tech:8077/images/2020/03/14/6d1b6872329b66dbe339b827cbfb7191.png | width=655)
+![Screen Shot 2020-03-13 at 8.15.11 P](https://home.superliunian.tech:8077/images/2020/03/14/6d1b6872329b66dbe339b827cbfb7191.png)
 
 ![Screen Shot 2020-03-13 at 8.26.32 P-w960](https://home.superliunian.tech:8077/images/2020/03/14/63434e4f2f07a7a53d73fadfd6e658bc.png)
 
@@ -52,4 +52,4 @@
 
 如果我的贡献帮助到你，并且让你心情愉悦了，那可不可以请我一个早餐的煎饼呢？那你开心我也会很开心的，哈哈。
 
-![](https://home.superliunian.tech:8077/images/2020/03/14/9c423e6996ca9f4aad2d562e06dbab3a.jpg | width=621)
+![](https://home.superliunian.tech:8077/images/2020/03/14/9c423e6996ca9f4aad2d562e06dbab3a.jpg)
