@@ -35,13 +35,7 @@
 * 睡眠唤醒：正常。
 * 操作系统 & Clover ：使用的是黑果小兵的“macOS Catalina 10.15.2(19C57) Installer for Clover 5100 and WEPE”
 
-![](https://home.superliunian.tech:8077/images/2020/03/14/be2dd8cb1c971cf32bfd1317103649fa.png)
-
-![Screen Shot 2020-03-13 at 8.15.11 P](https://home.superliunian.tech:8077/images/2020/03/14/6d1b6872329b66dbe339b827cbfb7191.png)
-
-![Screen Shot 2020-03-13 at 8.26.32 P-w960](https://home.superliunian.tech:8077/images/2020/03/14/63434e4f2f07a7a53d73fadfd6e658bc.png)
-
-<img src="https://home.superliunian.tech:8077/images/2020/03/14/ff4451e86a44d5fa169637475a1ee60b.jpg" width="50%">
+<img src="https://home.superliunian.tech:8077/images/2020/03/14/6dc94dcb8a51807ae3686bb05ce34480.png" width="50%">
 
 
 ## 如何使用
