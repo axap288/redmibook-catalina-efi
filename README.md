@@ -35,7 +35,7 @@
 * 睡眠唤醒：正常。
 * 操作系统 & Clover ：使用的是黑果小兵的“macOS Catalina 10.15.2(19C57) Installer for Clover 5100 and WEPE”
 
-![](/screenshot/Screen Shot 2020-03-14 at 5.15.16 PM.png)
+![](https://raw.githubusercontent.com/axap288/redmibook-hackintosh-efi/master/screenshot/Screen%20Shot%202020-03-14%20at%205.15.16%20PM.png)
 
 ## 如何使用
 
